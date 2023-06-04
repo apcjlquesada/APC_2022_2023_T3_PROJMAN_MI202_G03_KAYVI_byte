@@ -1,0 +1,10 @@
+{
+  "appId": "org.capacitor.quasar.surveirams",
+  "appName": "SurveiRams",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.137.1:8080"
+  }
+}

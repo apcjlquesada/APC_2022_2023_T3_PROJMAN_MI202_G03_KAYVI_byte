@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SurveiRams</string>
+    <string name="title_activity_main">SurveiRams</string>
+    <string name="package_name">org.capacitor.quasar.surveirams</string>
+    <string name="custom_url_scheme">org.capacitor.quasar.surveirams</string>
+</resources>
