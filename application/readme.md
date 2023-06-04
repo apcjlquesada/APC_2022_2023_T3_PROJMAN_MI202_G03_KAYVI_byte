@@ -43,8 +43,3 @@ To contribute to surveirams, follow these steps:
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
 
-## Authors
-* [@Ciradyl](https://github.com/Ciradyl) 
-* [@ScrimpyMoon08](https://github.com/ScrimpyMoon08) 
-* [@Kei-Rique](https://github.com/Kei-Rique)
-* @Mariah
